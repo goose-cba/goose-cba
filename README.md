@@ -19,10 +19,15 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
  
  <h3>Tools</h3>
+ 
  <img src="https://badges.aleen42.com/src/visual_studio_code.svg"> 
+ <img src="https://badges.aleen42.com/src/visual_studio.svg">
+ <img src="https://badges.aleen42.com/src/vue.svg">
+ <img src="https://badges.aleen42.com/src/eclipse.svg">
   
  <h3>Learning</h3>
  <img src="https://badges.aleen42.com/src/react.svg">
+ <img src="https://badges.aleen42.com/src/typescript.svg">
    
 </div>
 

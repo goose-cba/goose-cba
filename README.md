@@ -12,11 +12,11 @@ A lo largo de estos años he adquirido habilidades en el desarrollo web que me d
   </p> 
   
   
-  <p align="left">
+  <i> align="left">
     My name is Gustavo. I am currently working for "Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba" in Argentina , in which I am involved in different projects that seek the automation of processes inherent to education and its administration.
 <br>    
 Throughout these years I have acquired skills in web development that give me a full stack profile, being able to carry out tasks of analysis, development, implementation and testing of different systems.
-  </p>  
+  </i>  
 </div>
 
 <h1></h1>

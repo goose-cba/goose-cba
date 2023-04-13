@@ -29,7 +29,7 @@
  <h3>Tools</h3> 
  <img src="https://badges.aleen42.com/src/visual_studio_code.svg"> 
  <img src="https://badges.aleen42.com/src/visual_studio.svg">
- <img src="https://badges.aleen42.com/src/vue.svg">
+
  <img src="https://badges.aleen42.com/src/eclipse.svg">
   
  <h3>Learning</h3>

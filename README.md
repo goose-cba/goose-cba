@@ -5,7 +5,7 @@
 
 <h1></h1>
   
-  <p>Mi nombre es Gustavo. Actualmente me encuentro trabajando para la Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba, en el cual estoy involucrado en diferentes proyectos que buscan la automatización de procesos innerentes a la educación y a la administración de la misma. <br> A lo largo del tiempo he adquirido habilidades en el desarrollo web que me dan un perfil full stack, pudiendo concretar tareas de analisis, desarrollo, implementación y prueba de diferentes sistemas.</p> 
+  <p align="left">Mi nombre es Gustavo. Actualmente me encuentro trabajando para la Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba, en el cual estoy involucrado en diferentes proyectos que buscan la automatización de procesos innerentes a la educación y a la administración de la misma. <br> A lo largo del tiempo he adquirido habilidades en el desarrollo web que me dan un perfil full stack, pudiendo concretar tareas de analisis, desarrollo, implementación y prueba de diferentes sistemas.</p> 
 </div>
 
 <h1></h1>

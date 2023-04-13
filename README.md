@@ -1,8 +1,7 @@
-### Hello there!
-<div style="  height: 100px; width: 200px; background-color:red;">
-  contenido
-</div>  
-<!--
+<center>
+### Hello there!  
+</center>
+  <!--
 **goose-cba/goose-cba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

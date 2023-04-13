@@ -1,4 +1,5 @@
 ### Hello there!  
+<img src="https://pjb.edu.ar/img/saludo.gif">
   <!--
 **goose-cba/goose-cba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

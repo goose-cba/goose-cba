@@ -1,7 +1,7 @@
 <div class="header" align="center">
   <img src="https://pjb.edu.ar/img/saludo.gif">
   <h3>Hello there!</h3> 
-  <h5>Cntenido de presentación</h5>
+  <h5>Contenido de presentación</h5>
 </div>
 
 <div class="content">

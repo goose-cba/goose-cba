@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
  
- <hr>
+ <h1></h1>
   
  <h3>Tools</h3> 
  <img src="https://badges.aleen42.com/src/visual_studio_code.svg"> 

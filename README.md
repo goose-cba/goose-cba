@@ -5,10 +5,17 @@
 
 <h1></h1>
   
-  <p align="left">Mi nombre es Gustavo. Actualmente me encuentro trabajando para la Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba, en el cual estoy involucrado en diferentes proyectos que buscan la automatización de procesos innerentes a la educación y a la administración de la misma. 
-    <br><
+  <p align="left">
+    Mi nombre es Gustavo. Actualmente me encuentro trabajando para la Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba, en el cual estoy involucrado en diferentes proyectos que buscan la automatización de procesos innerentes a la educación y a la administración de la misma. 
+<br>
 A lo largo de estos años he adquirido habilidades en el desarrollo web que me dan un perfil full stack, pudiendo concretar tareas de analisis, desarrollo, implementación y prueba de diferentes sistemas.
   </p> 
+  
+  
+  <p>
+    My name is Gustavo. I am currently working for "Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba" in Argentina , in which I am involved in different projects that seek the automation of processes inherent to education and its administration.
+< Throughout these years I have acquired skills in web development that give me a full stack profile, being able to carry out tasks of analysis, development, implementation and testing of different systems.
+  </p>  
 </div>
 
 <h1></h1>

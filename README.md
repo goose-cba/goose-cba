@@ -4,7 +4,7 @@
   <h5>Contenido de presentación</h5>
 </div>
 
-<h1>
+<h1></h1>
 
 <div class="content">
  <h3>OS</h3>

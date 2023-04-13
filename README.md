@@ -1,5 +1,5 @@
 ### Hello there!
-<h1>Pribando titulo</h1>
+<h1>Probando titulo</h1>
 <!--
 **goose-cba/goose-cba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

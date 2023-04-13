@@ -4,6 +4,8 @@
   <h5>Contenido de presentación</h5>
 </div>
 
+<hr>
+
 <div class="content">
  <h3>OS</h3>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -18,8 +20,9 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
  
- <h3>Tools</h3>
- 
+ <hr>
+  
+ <h3>Tools</h3> 
  <img src="https://badges.aleen42.com/src/visual_studio_code.svg"> 
  <img src="https://badges.aleen42.com/src/visual_studio.svg">
  <img src="https://badges.aleen42.com/src/vue.svg">

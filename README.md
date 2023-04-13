@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
 <img src="https://pjb.edu.ar/img/saludo.gif">
 <h3>Hello there!</h3>  
 </div>

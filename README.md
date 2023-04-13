@@ -1,9 +1,27 @@
+
+<!--
+**goose-cba/goose-cba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+ [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+-->
+
 <div class="header" align="center">
   
   <img src="https://pjb.edu.ar/img/saludo.gif">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" width="300" height="auto" > 
 
-<h1></h1>
+  <h1></h1>
   
   <h4 align="left">Sobre mi:</h4>
   <p align="left">
@@ -12,14 +30,18 @@
   
   <h4 align="left"><i>About:</i></h4>
   <p align="left">
-  <i>My name is Gustavo. I am currently working for "Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba" in Argentina , in which I am involved in different projects that seek the automation of processes inherent to education and its administration.
-<br> Throughout these years I have acquired skills in web development that give me a full stack profile, being able to carry out tasks of analysis, development, implementation and testing of different systems.</i>  
+    <i>
+      My name is Gustavo. I am currently working for "Subdirección de Infraestructura Tecnológica del Ministerio de Educación de la Provincia de Córdoba" in Argentina , in which I am involved in different projects that seek the automation of processes inherent to education and its administration.
+      <br> 
+      Throughout these years I have acquired skills in web development that give me a full stack profile, being able to carry out tasks of analysis,  development, implementation and testing of different systems.
+    </i>  
   </p>  
 </div>
 
 <h1></h1>
 
 <div class="content">
+
  <h3>OS</h3>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
@@ -47,24 +69,7 @@
    
 </div>
 
-  <!--
-**goose-cba/goose-cba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
--->
-
- <h1></h1>
+<h1></h1>
 
 <h3 align="left">Others:</h3>
 <p align="left"> 

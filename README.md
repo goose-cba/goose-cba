@@ -1,7 +1,7 @@
-<div class="header" >
+<div class="header" align="center">
   
-  <img align="center" src="https://pjb.edu.ar/img/saludo.gif">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="300" heigth="400" align="center"> 
+  <img src="https://pjb.edu.ar/img/saludo.gif">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="300" heigth="400" > 
 
 <h1></h1>
   
